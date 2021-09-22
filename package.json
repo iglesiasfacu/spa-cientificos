@@ -1,5 +1,6 @@
 {
   "name": "spa-cientificos",
+  "homepage": "https://iglesiasfacu.github.io/spa-cientificos/",
   "version": "1.0.0",
   "description": "SPA Demo con JS Vanilla",
   "main": "index.js",
