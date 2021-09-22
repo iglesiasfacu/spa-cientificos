@@ -4,3 +4,5 @@
 4. npm i @babel/core babel-loader html-webpack-plugin copy-webpack-plugin webpack webpack-cli webpack-dev-server --save-dev
 5. npm i: instala dependencias node
 6. npm run build: levanta proyecto y crea carpeta "dist"
+
+Deploy: https://iglesiasfacu.github.io/spa-cientificos/
