@@ -5,4 +5,4 @@
 5. npm i: instala dependencias node
 6. npm run build: levanta proyecto y crea carpeta "dist"
 
-Deploy: https://iglesiasfacu.github.io/spa-cientificos/
+Deploy: https://iglesiasfacu.github.io/spa-cientificos
